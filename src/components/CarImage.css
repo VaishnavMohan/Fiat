@@ -1,0 +1,9 @@
+.car-image-container {
+    text-align: center;
+  }
+  
+  .car-image-container img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+  }

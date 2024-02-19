@@ -1,0 +1,22 @@
+
+.car-selection {
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    margin-top: 20px;
+  }
+  
+  .car-thumbnail {
+    width: 60px;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  
+   
+    border: 2px solid #fff;
+  }
+  
+  .car-thumbnail:hover {
+    transform: scale(1.1);
+  }
+  
